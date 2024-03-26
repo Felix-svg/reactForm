@@ -1,8 +1,22 @@
-# React + Vite
+## User Details Form
+This project is a simple React application that allows users to submit their details using a form. The form includes fields for first name, last name, country, city, gender, and phone number. The user's details are then submitted to a local server endpoint (http://localhost:3000/users) using a POST request and saved in a `db.json` file.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+Clone the repository: git clone https://github.com/yourusername/your-repo.git
+Navigate to the project directory: cd your-repo
+Install dependencies: npm install
+Usage
+Start the local development server: npm start
+Open your browser and visit http://localhost:3000 to view the application.
 
-Currently, two official plugins are available:
+## Features
+- Simple user details form with validation.
+- Submission of user details to a local server.
+- Alert message confirming successful submission of details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- CSS
+
+## Credits
+This project was created by Felix Omondi.
