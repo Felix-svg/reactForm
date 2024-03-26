@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1f68",
+      "firstName": "Felix",
+      "lastName": "Omondi",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "gender": "Male",
+      "phoneNumber": "12345678"
+    },
+    {
+      "id": "ec09",
+      "firstName": "Felix",
+      "lastName": "Omondi",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "gender": "Male",
+      "phoneNumber": "12345678"
+    },
+    {
+      "id": "d28d",
+      "firstName": "dfghj",
+      "lastName": "sdfgh",
+      "country": "sdfgh",
+      "city": "sfghj",
+      "gender": "Prefer not to say",
+      "phoneNumber": "12345678"
+    },
+    {
+      "id": "88ae",
+      "firstName": "Justus",
+      "lastName": "Odongo",
+      "country": "Kenya",
+      "city": "Kisumu",
+      "gender": "",
+      "phoneNumber": "12345678"
+    },
+    {
+      "id": "5944",
+      "firstName": "Justus",
+      "lastName": "Odongo",
+      "country": "Kenya",
+      "city": "Kisumu",
+      "gender": "Male",
+      "phoneNumber": "12345678"
+    }
+  ]
+}
